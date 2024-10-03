@@ -19,7 +19,7 @@ echo "output_dir=$output_dir"
 
 accelerate launch --config_file configs/accelerate_zero1.yaml \
     --num_processes 1 --main_process_port $MASTER_PORT --deepspeed_hostfile ds_hostfile \
-    src/hidden_guard.py \
+    hidden_guard.py \
     --model_name_or_path $model_name_or_path \
     --target_layers $layers \
     --transform_layers $transform_layers \
