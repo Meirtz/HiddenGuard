@@ -19,7 +19,7 @@ HiddenGuard is a novel framework for fine-grained, token-level moderation in lar
 ### Prerequisites
 
 - Python 3.8+
-- PyTorch 1.10+
+- PyTorch 2.4.0+
 - CUDA for GPU support
 - Dependencies listed in `requirements.txt`
 
