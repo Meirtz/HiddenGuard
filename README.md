@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-red)  ![Language](https://img.shields.io/badge/🐍%20Python%20-8A2BE2)
 
-![Pipeline](assets/pipeline.pdf)
+![Pipeline](assets/pipeline.webp)
 
 ## Overview
 
