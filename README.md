@@ -38,7 +38,7 @@ sh hidden_guard_llama3_8b.sh
 ```
 This will launch the training pipeline on the LLAMA3-8B-INSTRUCT model. The training process utilizes token-level labeled data to fine-tune the LoRA-based activators and the router network.
 
-Dataset
+## Dataset
 
 We provide two main datasets for training and evaluation:
 
@@ -47,6 +47,6 @@ We provide two main datasets for training and evaluation:
 
 Refer to the datasets/ folder for more details on how to access and preprocess these datasets.
 
-License
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
