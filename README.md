@@ -42,8 +42,8 @@ Dataset
 
 We provide two main datasets for training and evaluation:
 
-	•	Redacted Circuit Breaker Dataset: Contains harmful content annotated with token-level labels.
-	•	Retain Dataset: Includes benign content and exaggerated refusal examples.
+- [x] Redacted Circuit Breaker Dataset: Contains harmful content annotated with token-level labels.
+- [x] Retain Dataset: Includes benign content and exaggerated refusal examples.
 
 Refer to the datasets/ folder for more details on how to access and preprocess these datasets.
 
