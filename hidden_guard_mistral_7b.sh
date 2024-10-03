@@ -6,7 +6,7 @@ export CUBLAS_WORKSPACE_CONFIG=:16:8
 
 ### Llama-3-8B Config ###
 #model_name_or_path=meta-llama/Llama-2-7b-chat-hf
-model_name_or_path=/home/meilingrui/.cache/huggingface/hub/models--mistralai--Mistral-7B-Instruct-v0.2/snapshots/41b61a33a2483885c981aa79e0df6b32407ed873/
+model_name_or_path=MODEL_PATH_HERE
 lorra_alpha=10
 layers="10,20"
 #layers="20"
